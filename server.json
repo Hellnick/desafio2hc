@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/134074/2/134074267_1GG.jpg",
+      "description": "Smartphone iPhone 10XS",
+      "name": "iPhone",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "photo": "https://tecnoblog.net/wp-content/uploads/2021/04/galaxy-a32-5g-produto.png",
+      "description": "Smartphone Samsung Galaxy A32",
+      "name": "Galaxy A32",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-moto-g30-128gb-6-5-motorola_475756.jpg",
+      "description": "Smartphone Motorola G30",
+      "name": "Motorola G30",
+      "price": 2000
+    }
+  ]
+}
