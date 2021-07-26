@@ -52,9 +52,9 @@ const Home: React.FC = () => {
       <footer>
         <p>&copy; 2021 MARCO APOLINÁRIO, All Rights Reserved</p>
         <div className="extra">
-          <a href="#">Language</a>
-          <a href="#">Terms of Use</a>
-          <a href="#">Privacy</a>
+          <a href="/">Language</a>
+          <a href="/">Terms of Use</a>
+          <a href="/">Privacy</a>
         </div>
       </footer>
     </Container>
